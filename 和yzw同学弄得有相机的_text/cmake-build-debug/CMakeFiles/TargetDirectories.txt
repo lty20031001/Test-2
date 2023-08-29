@@ -1,0 +1,3 @@
+/media/shaobing2/Elements/yzw_text/cmake-build-debug/CMakeFiles/yzw_text.dir
+/media/shaobing2/Elements/yzw_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/shaobing2/Elements/yzw_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
